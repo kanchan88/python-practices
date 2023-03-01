@@ -1,0 +1,7 @@
+1. Every thing in Python that can be looped over uses iterator behind the hood. Like list, tuple
+
+2. Iterator has __next__ and __iter__ methods
+
+3. Lazy evaluation : They help to save resource as we can loop over one at a time and we should not save in memory like For loop (which allocated reosurces memory to all result )
+
+4.  Simplifying Iterator : Generator

@@ -1,0 +1,1 @@
+{"richdad": {"name": "Rich Dad Poor Dad", "writer": "Robert Kiyosaki", "publsihed": 1997, "price": 300}, "themonk": {"name": "The Monk Who Sold His ferrari", "writer": "Robin Sharma", "publsihed": 2005, "price": 450}, "selllike": {"name": "Sell Like Crazy", "writer": "Sabri Suby", "publsihed": 2019, "price": 400}}

@@ -1,0 +1,19 @@
+2020-08-17 17:58:49,812 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-17 17:58:49,812 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /home/evazs/anaconda3/lib/python3.7/site-packages/instabot/bot/bot.py
+2020-08-17 17:58:49,813 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-17 17:58:49,813 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-17 17:58:49,813 - instabot version: 0.117.0 (api_login) - INFO - Recovery from /home/evazs/Desktop/Python Automation/config/itskanchanthings_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=30ce7a37-2e3e-4f9f-8bb1-fd4c366ebdd1
+- uuid=f436a963-b665-40db-93f4-9ba0d3d2ffc8
+- client_session_id=9a31f03a-b632-4451-883f-7a8a56954948
+- device_id=android-313b76133ae76ae3
+2020-08-17 17:58:49,813 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-17 17:58:52,917 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-17 17:58:54,039 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-17 17:58:54,040 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'itskanchanthings'!
+2020-08-17 17:58:54,040 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /home/evazs/Desktop/Python Automation/config/itskanchanthings.checkpoint
+2020-08-17 17:58:56,092 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-08-17 17:58:56,092 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'post.jpg' is not uploaded.
+2020-08-17 17:58:56,092 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /home/evazs/Desktop/Python Automation/config/itskanchanthings.checkpoint
+2020-08-17 17:58:56,092 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31

@@ -1,0 +1,15 @@
+Autoencoder is generally used in Unsupervised Learning used in things like Noise Removal, Dimensionality Reduction. Sometime we get access to historical data as well so we call them Semi-Supervised.
+
+What is AutoEncoder and How it works?
+
+1.Simple Neural Network
+2.Reproduce its input at output level
+3.One difference between Multi Perceptron is that the number of input and output is same
+
+It has 2 parts: Encoding and Decoding.
+ 
+In encoding, reduce the some desired of neurons and find what values are important. Which inputs are important to replicate the model. 
+
+In decoding, we go back and get same number of input.
+
+We then use Encoder only for data representation.
